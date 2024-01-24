@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">🕵️‍♂️ Updater for your Applications 🕵️‍♂️</h>
 
-![BetterHandmadeGull-size_restricted](https://cdn.discordapp.com/attachments/1133694521792811048/1134880759472210032/4DED2F61-E65B-4FA9-816A-0D78B5F272FD.gif)
+![BetterHandmadeGull-size_restricted](https://media.discordapp.net/attachments/1199833311170809907/1199833327293694132/updater.png?ex=65c3fadd&is=65b185dd&hm=e08099819e71985e8b22fbb4558222280da82f222dd888c8d916567ddee8b97f&=&format=webp&quality=lossless)
 
 # 👨🏻‍💻 About the Code
 
